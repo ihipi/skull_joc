@@ -18,13 +18,7 @@ public class skulljoc extends ApplicationAdapter {
 	
 	@Override
 	public void create () {
-		 batch = new SpriteBatch();
-		img = new Texture("Skullduino.png");
-		skull= new Sprite(img,0,0,349,315);
-		altura = Gdx.graphics.getHeight();
-		amplada = Gdx.graphics.getWidth();
-		text = new BitmapFont();
-		
+	
 	}
 
 	@Override
