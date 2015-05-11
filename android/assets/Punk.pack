@@ -1,0 +1,201 @@
+
+Punk.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+pun
+  rotate: false
+  xy: 1, 57
+  size: 40, 54
+  orig: 40, 54
+  offset: 0, 0
+  index: 12
+pun
+  rotate: false
+  xy: 1, 1
+  size: 40, 54
+  orig: 40, 54
+  offset: 0, 0
+  index: 11
+pun
+  rotate: false
+  xy: 43, 57
+  size: 40, 54
+  orig: 40, 54
+  offset: 0, 0
+  index: 0
+pun
+  rotate: false
+  xy: 43, 1
+  size: 38, 54
+  orig: 38, 54
+  offset: 0, 0
+  index: 13
+pun
+  rotate: false
+  xy: 85, 58
+  size: 38, 53
+  orig: 38, 53
+  offset: 0, 0
+  index: 1
+pun
+  rotate: false
+  xy: 125, 58
+  size: 38, 53
+  orig: 38, 53
+  offset: 0, 0
+  index: 10
+pun
+  rotate: false
+  xy: 165, 58
+  size: 38, 53
+  orig: 38, 53
+  offset: 0, 0
+  index: 27
+pun
+  rotate: false
+  xy: 205, 58
+  size: 37, 53
+  orig: 37, 53
+  offset: 0, 0
+  index: 14
+pun
+  rotate: false
+  xy: 244, 59
+  size: 37, 52
+  orig: 37, 52
+  offset: 0, 0
+  index: 26
+pun
+  rotate: false
+  xy: 283, 60
+  size: 37, 51
+  orig: 37, 51
+  offset: 0, 0
+  index: 20
+pun
+  rotate: false
+  xy: 322, 60
+  size: 36, 51
+  orig: 36, 51
+  offset: 0, 0
+  index: 21
+pun
+  rotate: false
+  xy: 360, 59
+  size: 36, 52
+  orig: 36, 52
+  offset: 0, 0
+  index: 2
+pun
+  rotate: false
+  xy: 398, 59
+  size: 36, 52
+  orig: 36, 52
+  offset: 0, 0
+  index: 9
+pun
+  rotate: false
+  xy: 436, 59
+  size: 36, 52
+  orig: 36, 52
+  offset: 0, 0
+  index: 15
+pun
+  rotate: false
+  xy: 474, 60
+  size: 36, 51
+  orig: 36, 51
+  offset: 0, 0
+  index: 6
+pun
+  rotate: false
+  xy: 512, 60
+  size: 35, 51
+  orig: 35, 51
+  offset: 0, 0
+  index: 5
+pun
+  rotate: false
+  xy: 549, 61
+  size: 36, 50
+  orig: 36, 50
+  offset: 0, 0
+  index: 19
+pun
+  rotate: false
+  xy: 587, 60
+  size: 35, 51
+  orig: 35, 51
+  offset: 0, 0
+  index: 25
+pun
+  rotate: false
+  xy: 624, 60
+  size: 34, 51
+  orig: 34, 51
+  offset: 0, 0
+  index: 8
+pun
+  rotate: false
+  xy: 660, 60
+  size: 34, 51
+  orig: 34, 51
+  offset: 0, 0
+  index: 3
+pun
+  rotate: false
+  xy: 696, 60
+  size: 34, 51
+  orig: 34, 51
+  offset: 0, 0
+  index: 16
+pun
+  rotate: false
+  xy: 732, 61
+  size: 35, 50
+  orig: 35, 50
+  offset: 0, 0
+  index: 22
+pun
+  rotate: false
+  xy: 769, 61
+  size: 34, 50
+  orig: 34, 50
+  offset: 0, 0
+  index: 24
+pun
+  rotate: false
+  xy: 805, 61
+  size: 34, 50
+  orig: 34, 50
+  offset: 0, 0
+  index: 18
+pun
+  rotate: false
+  xy: 841, 61
+  size: 33, 50
+  orig: 33, 50
+  offset: 0, 0
+  index: 4
+pun
+  rotate: false
+  xy: 876, 61
+  size: 33, 50
+  orig: 33, 50
+  offset: 0, 0
+  index: 23
+pun
+  rotate: false
+  xy: 911, 61
+  size: 33, 50
+  orig: 33, 50
+  offset: 0, 0
+  index: 7
+pun
+  rotate: false
+  xy: 946, 61
+  size: 33, 50
+  orig: 33, 50
+  offset: 0, 0
+  index: 17
